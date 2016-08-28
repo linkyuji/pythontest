@@ -1,11 +1,8 @@
 #!/usr/bin/python
 #coding=UTF-8
-import HTMLParser
-import urlparse
 import urllib
 import urllib2
 import cookielib
-import string
 import re
 
 #登录的主页面
